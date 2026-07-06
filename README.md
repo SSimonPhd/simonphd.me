@@ -1,5 +1,7 @@
 # Portfolio Project
 
+![image](https://user-images.githubusercontent.com/60651145/212108416-b5aa397c-15f0-4252-b97b-c4148642d7e4.png)
+
 Code a portfolio site with HTML/CSS from scratch:
 
 1. Designed portfolio webpage with stylesheet, photo, header, nav bar, sections, and sidebar
@@ -39,10 +41,6 @@ Code a portfolio site with HTML/CSS from scratch:
 18. Commented HTML & CSS to indicate changes made
 
 19. Added blinking cursor psuedo-element to header-box (simulates a terminal)
-
-- Screenshot
-
-![image](https://user-images.githubusercontent.com/60651145/212108416-b5aa397c-15f0-4252-b97b-c4148642d7e4.png)
 
 - URL to deployed application:
 
